@@ -9,4 +9,8 @@ Model is a Keras CNN
 
 App in streamlit servers.
 
+https://dvegamar-repilo-en-olivos-repilo-clasificador-fpxi4g.streamlit.app/
+
+
+
 
